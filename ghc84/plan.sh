@@ -16,7 +16,7 @@ pkg_build_deps=(
   core/coreutils
   core/binutils
   core/diffutils
-  core/ghc82
+  core/ghc82-bootstrap
   core/make
   core/patch
   core/sed
